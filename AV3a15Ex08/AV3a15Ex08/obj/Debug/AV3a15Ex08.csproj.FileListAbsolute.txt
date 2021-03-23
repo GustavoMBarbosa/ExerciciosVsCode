@@ -1,0 +1,10 @@
+C:\Users\gusta\Desktop\escola\3 ano\Atividades\POO\AV3a15Ex08\AV3a15Ex08\bin\Debug\AV3a15Ex08.exe.config
+C:\Users\gusta\Desktop\escola\3 ano\Atividades\POO\AV3a15Ex08\AV3a15Ex08\bin\Debug\AV3a15Ex08.exe
+C:\Users\gusta\Desktop\escola\3 ano\Atividades\POO\AV3a15Ex08\AV3a15Ex08\bin\Debug\AV3a15Ex08.pdb
+C:\Users\gusta\Desktop\escola\3 ano\Atividades\POO\AV3a15Ex08\AV3a15Ex08\obj\Debug\AV3a15Ex08.csprojAssemblyReference.cache
+C:\Users\gusta\Desktop\escola\3 ano\Atividades\POO\AV3a15Ex08\AV3a15Ex08\obj\Debug\AV3a15Ex08.Form1.resources
+C:\Users\gusta\Desktop\escola\3 ano\Atividades\POO\AV3a15Ex08\AV3a15Ex08\obj\Debug\AV3a15Ex08.Properties.Resources.resources
+C:\Users\gusta\Desktop\escola\3 ano\Atividades\POO\AV3a15Ex08\AV3a15Ex08\obj\Debug\AV3a15Ex08.csproj.GenerateResource.cache
+C:\Users\gusta\Desktop\escola\3 ano\Atividades\POO\AV3a15Ex08\AV3a15Ex08\obj\Debug\AV3a15Ex08.csproj.CoreCompileInputs.cache
+C:\Users\gusta\Desktop\escola\3 ano\Atividades\POO\AV3a15Ex08\AV3a15Ex08\obj\Debug\AV3a15Ex08.exe
+C:\Users\gusta\Desktop\escola\3 ano\Atividades\POO\AV3a15Ex08\AV3a15Ex08\obj\Debug\AV3a15Ex08.pdb
